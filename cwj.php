@@ -60,7 +60,7 @@ echo $R.
 |_____|_|\__\___|\___/ |_| |_|";
 echo $Y."\n++++++++++++++++++++++++++++++++++++++";
 echo $Y."\nAuthor  : The414s                   ".               $G.'+';
-echo $Y."\nGithub  : https://github.com/cyberwestjava2018".$G.'+';
+echo $Y."\nGithub  : https://github.com/cyberwestjava".$G.'+';
 echo $Y."\nTeam    : Cyber west java         ".             $G.'+';
 echo $Y."\nVersion : 2.4.1                            ".$G.'+';
 echo $Y."\nDate    : 26-06-2018                 ".$G'+';
