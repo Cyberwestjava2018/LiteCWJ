@@ -63,7 +63,7 @@ echo $Y."\nAuthor  : The414s                   ".               $G.'+';
 echo $Y."\nGithub  : https://github.com/cyberwestjava".$G.'+';
 echo $Y."\nTeam    : Cyber west java         ".             $G.'+';
 echo $Y."\nVersion : 2.4.1                            ".$G.'+';
-echo $Y."\nDate    : 26-06-2018                 ".$G'+';
+echo $Y."\nDate    : 26-06-2018                 ".$G.'+';
 echo $G."\n++++++++++++++++++++++++++++++++++++++".$G.$X."\n\n";
 isset($argv[1]) OR die($RR."[!] Input No List [!]\n".$X);
 if(is_numeric($argv[1])) {
